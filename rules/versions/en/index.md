@@ -1,4 +1,7 @@
-# Introduction
+# Grim Cargo
+**In the vast darkness of space, confined in the rusting cargo section of an obsolete bulk freighter, a secret war rage.
+So closely is this secret guarded that even those who fight and die to protect it seldom know the purpose of their bravery.
+All they do know, if they know anything at all, is that they are part of Project Pandora.**
 
 ## Game overview
 _Project Pandora : Grim Cargo_ is a two-player game in which one player commands the human Marines of the mighty Corporation while the other controls the shadowy forces of the Veer-myn.
