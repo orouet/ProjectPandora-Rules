@@ -10,9 +10,9 @@ All they do know, if they know anything at all, is that they are part of Project
 |---|---|
 |4 Move|1|
 |3 Shoot|1|
-|1 Shoot & 1 Move|2|
-|2 Shoot or 2 Move|2|
-|Reaction Fire or 2 Move|2|
+|1 Shoot AND 1 Move|2|
+|2 Shoot OR 2 Move|2|
+|Reaction Fire OR 2 Move|2|
 |Special|1|
 
 ### Veer-myn (Green)
@@ -20,9 +20,9 @@ All they do know, if they know anything at all, is that they are part of Project
 |---|---|
 |4 Move|2|
 |2 Shoot|1|
-|1 Shoot & 2 Move|2|
-|1 Shoot or 1 Move|1|
-|Rush or 1 Move|2|
+|1 Shoot AND 2 Move|2|
+|1 Shoot OR 1 Move|1|
+|Rush OR 1 Move|2|
 |Special|1|
 
 ### Cargo
