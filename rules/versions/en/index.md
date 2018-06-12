@@ -6,7 +6,7 @@ All they do know, if they know anything at all, is that they are part of Project
 ## Counters & tokens
 
 ### Corporation (Blue)
-|Token|Quantities|
+|Token|Quantity|
 |---|---|
 |4 Move|1|
 |3 Shoot|1|
@@ -16,7 +16,7 @@ All they do know, if they know anything at all, is that they are part of Project
 |Special|1|
 
 ### Veer-myn (Green)
-|Token|Quantities|
+|Token|Quantity|
 |---|---|
 |4 Move|2|
 |2 Shoot|1|
@@ -24,6 +24,29 @@ All they do know, if they know anything at all, is that they are part of Project
 |1 Shoot or 1 Move|1|
 |Rush or 1 Move|2|
 |Special|1|
+
+### Cargo
+|Tile|Quantity|
+|---|---|
+|Red|6|
+|Grey|5|
+|2x2|4|
+
+### Items
+|Token|Quantity|
+|---|---|
+|Objective|3|
+|Detox Kit|5|
+|Flare|9|
+|Medikit|5|
+
+### Other
+|Token|Quantity|
+|---|---|
+|Injured|6|
+|Out of ammo|5|
+|Dark|5|
+|Toxic|6|
 
 ## Game overview
 _Project Pandora : Grim Cargo_ is a two-player game in which one player commands the human Marines of the mighty Corporation while the other controls the shadowy forces of the Veer-myn.
