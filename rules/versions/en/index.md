@@ -40,3 +40,13 @@ Always be sure to follow the safety instructions on all your tools and glues.
 The models in this game represents a number of different types of futuristic warrior.
 The Corporation are mostly high trained human Marines, and are led by the grizzled Sergeant Cruise.
 The Veer-myn ranks are commanded by Master Reekish, and are composed of Night-crawlers and an Exterminator armed with a chem-thrower (see the game box for details).
+
+## Setting up the game
+Follow these simple steps :
++ Decide who will play the Corporation and who will play the Veer-myn and choose a scenario to play (see pages 13-21).
++ Set up the tiles, models and counters as shown on the scenario's map.
+If appropriate, the Corporation player make his choices from the Armoury and the Veer-myn player places any Dark and/or Toxic counters.
+The player controlling each models decides which direction it faces at the start of the game.
++ Each player takes their own set of nine action tokens.
++ Before you begin, check that both players know what they need to do to win and are aware of any special rules for the scenario.
++ Start the game.
