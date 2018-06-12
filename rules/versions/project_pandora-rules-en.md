@@ -35,3 +35,8 @@ There are some suggested colour schemes, but don't let this limit your imaginati
 You choose the paint scheme you like best!
 
 Always be sure to follow the safety instructions on all your tools and glues.
+
+### The models
+The models in this game represents a number of different types of futuristic warrior.
+The Corporation are mostly high trained human Marines, and are led by the grizzled Sergeant Cruise.
+The Veer-myn ranks are commanded by Master Reekish, and are composed of Night-crawlers and an Exterminator armed with a chem-thrower (see the game box for details).
