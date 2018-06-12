@@ -3,6 +3,28 @@
 So closely is this secret guarded that even those who fight and die to protect it seldom know the purpose of their bravery.
 All they do know, if they know anything at all, is that they are part of Project Pandora.**
 
+## Counters & tokens
+
+### Corporation (Blue)
+|Token|Quantities|
+|---|---|
+|4 Move|1|
+|3 Shoot|1|
+|1 Shoot & 1 Move|2|
+|2 Shoot or 2 Move|2|
+|Reaction Fire or 2 Move|2|
+|Special|1|
+
+### Veer-myn (Green)
+|Token|Quantities|
+|---|---|
+|4 Move|2|
+|2 Shoot|1|
+|1 Shoot & 2 Move|2|
+|1 Shoot or 1 Move|1|
+|Rush or 1 Move|2|
+|Special|1|
+
 ## Game overview
 _Project Pandora : Grim Cargo_ is a two-player game in which one player commands the human Marines of the mighty Corporation while the other controls the shadowy forces of the Veer-myn.
 The game is set on a spaceship: the merchant vessel _CSS Zloveshy Vassily_, affectionately known to the crew as the _Grim Cargo_.
